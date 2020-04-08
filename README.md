@@ -22,7 +22,7 @@ Simple example:
 
 ```
 
-import { singleStepKDF, hexToBytes, bytesToHex } from "single-step-kdf";
+import { singleStepKDF, hexToBytes, bytesToHex } from "single-step-kdf-nist";
 
 const hexSingleStepKDF = () => {
   const sharedSecretString = "test";
