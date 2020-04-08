@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"/","sources":["types/index.ts"],"names":[],"mappings":"","sourcesContent":["export type Hash =\n  | \"sha256\"\n  | \"sha512\"\n  | \"sha224\"\n  | \"sha384\"\n  | \"sha3-256\"\n  | \"sha3-512\"\n  | \"sha3-224\"\n  | \"sha3-384\"\n  | \"blake2s256\"\n  | \"blake2b512\"\n  | \"sha1\"\n  | \"md5\";\n"]}
